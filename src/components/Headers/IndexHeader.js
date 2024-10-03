@@ -37,10 +37,11 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/IngMoran.jpg")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">UNIVERSIDAD TECNOLOGICA DE DURANGO</h1>
+            <h3>NOMBRE DEL ALUMNO: MORAN VAZQUEZ MIGUEL ANGEL</h3>
+            <h5>Gestión del Proceso de Software</h5>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
